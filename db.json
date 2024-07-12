@@ -1,16 +1,10 @@
 {
   "users": [
     {
-      "name": "Alice Johnsonddd",
-      "email": "alice.johnson@example.com",
+      "name": "Juan Calderon",
+      "email": "juan@gmail.com",
       "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
       "id": "3"
-    },
-    {
-      "id": "36fbc618-b4ba-440b-815a-06d449d489e8",
-      "name": "Dr. Patrick Armstrong",
-      "email": "Kiara.Hoeger@hotmail.com",
-      "avatar": "https://randomuser.me/api/portraits/men/18.jpg"
     },
     {
       "name": "Mr. Ellis Glover",
@@ -31,12 +25,6 @@
       "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
     },
     {
-      "name": "samuel",
-      "email": "safeca2002@gmail.com",
-      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
-      "id": "0e57"
-    },
-    {
       "id": "9f27",
       "name": "Fernando",
       "email": "juan1@gmail.com",
@@ -47,6 +35,12 @@
       "name": "juan",
       "email": "juan1@gamil.com",
       "avatar": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": "d153",
+      "name": "Juan Calderon",
+      "email": "loca@gmail.com",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
     }
   ]
 }
