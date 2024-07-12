@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Alice Johnsonddd",
+      "email": "alice.johnson@example.com",
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "id": "3"
+    },
+    {
+      "id": "36fbc618-b4ba-440b-815a-06d449d489e8",
+      "name": "Dr. Patrick Armstrong",
+      "email": "Kiara.Hoeger@hotmail.com",
+      "avatar": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+      "name": "Mr. Ellis Glover",
+      "email": "Arden75@hotmail.com",
+      "avatar": "https://randomuser.me/api/portraits/men/19.jpg",
+      "id": "2fa7e5d2-d341-4d42-a0dc-54a456f97433"
+    },
+    {
+      "id": "61255452-8427-416c-aa48-0d21ff66091d",
+      "name": "Billie Von",
+      "email": "Johanna.Quigley@yahoo.com",
+      "avatar": "https://randomuser.me/api/portraits/men/21.jpg"
+    },
+    {
+      "id": "f4bf",
+      "name": "carlos",
+      "email": "juan1@gamil.com",
+      "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "name": "samuel",
+      "email": "safeca2002@gmail.com",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "id": "0e57"
+    },
+    {
+      "id": "9f27",
+      "name": "Fernando",
+      "email": "juan1@gmail.com",
+      "avatar": "https://randomuser.me/api/portraits/men/33.jpg"
+    },
+    {
+      "id": "b695",
+      "name": "juan",
+      "email": "juan1@gamil.com",
+      "avatar": "https://randomuser.me/api/portraits/men/20.jpg"
+    }
+  ]
+}
