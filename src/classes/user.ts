@@ -32,7 +32,7 @@ export class User implements IResponseUsers{
                 <input type="email" id="email" value="${this.email}">
                 <label for="img">Avatar URL:</label>
                 <input type="text" id="img" value="${this.avatar}">
-                <button type="submit">Update</button>
+                <button class="update" type="submit">Update</button>
             </form>
         `;
     
