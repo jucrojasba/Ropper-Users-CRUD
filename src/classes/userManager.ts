@@ -12,7 +12,7 @@ export class UserManager {
                 <input type="email" id="email">
                 <label for="img">Avatar URL:</label>
                 <input type="text" id="img" value="https://randomuser.me/api/portraits/men/1.jpg">
-                <button type="submit">Add</button>
+                <button class="add" type="submit">Add</button>
             </form>
         `;
 
